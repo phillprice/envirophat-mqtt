@@ -2,6 +2,8 @@
 
 mqtt:
   host: localhost
+  username: username
+  password: password
   topic: envirophat/sensor
 temperature:
   factor: 1.2
